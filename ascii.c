@@ -11,7 +11,7 @@ int main(void){
     }
     return 0;
 }
-//---*
+/*
 0123456789abcdef
  !"#$%&'()*+,-./
 0123456789:;<=>?
@@ -19,4 +19,4 @@ int main(void){
 PQRSTUVWXYZ[\]^_
 `abcdefghijklmno
 pqrstuvwxyz{|}~
----*//
+*/
