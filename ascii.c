@@ -1,3 +1,4 @@
+//印出由32到127的ASCII碼
 #include <stdio.h>
 int main(void){
     printf("0123456789abcdef\n");
