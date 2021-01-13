@@ -1,6 +1,6 @@
- HelloWorld program
+ HelloWorld DS
 ===
 
-program beginner
-學習program的一些文件檔\n
+DS beginner
+學習DS的一些文件檔\n
 Write a commit message that describes your changes.
