@@ -11,12 +11,12 @@ int main(void){
     }
     return 0;
 }
-/--*
- 0123456789abcdef
+//---*
+0123456789abcdef
  !"#$%&'()*+,-./
 0123456789:;<=>?
 @ABCDEFGHIJKLMNO
 PQRSTUVWXYZ[\]^_
 `abcdefghijklmno
 pqrstuvwxyz{|}~
---*/
+---*//
