@@ -1,6 +1,6 @@
- HelloWorld PYTHON
+ HelloWorld C
 ===
 
-Python beginner
-學習python的一些文件檔
+C beginner
+學習C的一些文件檔
 Write a commit message that describes your changes.
