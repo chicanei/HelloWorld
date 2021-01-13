@@ -17,3 +17,5 @@ int main(void){
     printf("%c", c);
     return 0;
 }
+//印出來：
+//HELLO!
