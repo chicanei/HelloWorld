@@ -7,6 +7,8 @@ int main(void){
 }
 //印 80
 //片語：
-//#define STRINGLEN 80
-//char s[STRINGLEN];
-//CH11 P.223
+//|-----------------------|
+//| #define STRINGLEN 80  |
+//|  char s[STRINGLEN];   |
+//|_______________________|
+//  CH11 P.223
